@@ -1,6 +1,6 @@
 "use strict";
 (function () {
-    const latestFile = 'https://raw.githubusercontent.com/taengstagram/IG-Comments-Bookmarklet/master/latest.txt';
+    const latestFile = 'https://raw.githubusercontent.com/RVLVT/IG-Comments-Bookmarklet/master/latest.txt';
     let xhr = new XMLHttpRequest();
     xhr.open("GET", latestFile, true);
     xhr.onreadystatechange = function() { 
