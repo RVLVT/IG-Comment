@@ -5,7 +5,7 @@
         Please feel free to port/fix/fork.
     */
     const ver = 'V.20170617.090454';
-    const src = 'https://github.com/taengstagram/IG-Comments-Bookmarklet/';
+    const src = 'https://github.com/RVLVT/IG-Comment';
     console.info(ver);
     console.info(src);
 
