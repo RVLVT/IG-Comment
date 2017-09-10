@@ -88,7 +88,7 @@
 
             if (i == nodes.length - 1) {
                 container.insertAdjacentHTML('afterend',
-                    '<span class="fn"><a href="' + src + '">//source</a></span>');
+                    '<span class="fn"><a href="' + src + '">-source-</a></span>');
             }
         }
 
