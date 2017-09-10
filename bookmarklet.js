@@ -19,7 +19,7 @@
     let caption = null;
     let maxPages = 0;
     let tz = "Asia/Seoul"
-    let dateTimeFormat = 'YYYY-MM-DD h:mm:ssA z'
+    let dateTimeFormat = 'YYYYMMDD h:mm:ssA z'
 
     function getCookie(name) {
       let value = "; " + document.cookie;
