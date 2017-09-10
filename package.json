@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taengstagram/IG-Comments-Bookmarklet.git"
+    "url": "git+https://github.com/RVLVT/IG-Comment.git"
   },
   "author": "taengstagram",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/taengstagram/IG-Comments-Bookmarklet/issues"
+    "url": "https://github.com/RVLVT/IG-Comment/issues"
   },
-  "homepage": "https://github.com/taengstagram/IG-Comments-Bookmarklet#readme",
+  "homepage": "https://github.com/RVLVT/IG-Comment#readme",
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-preset-babili": "0.0.9",
