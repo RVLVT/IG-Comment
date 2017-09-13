@@ -179,7 +179,7 @@
                     }
                     return;
                 }
-                renderStatus('Yay!. ' + displayComments.length + ' comment(s) found.');
+                renderStatus('Yay! ' + displayComments.length + ' comment(s) found~');
                 
                 renderComments(displayComments);
                 
