@@ -1,1 +1,1 @@
-https://cdn.rawgit.com/RVLVT/IG-Comment/00547347/dist/bookmarklet.min.js
+https://cdn.rawgit.com/RVLVT/IG-Comment/d0084e97/dist/bookmarklet.min.js
