@@ -214,8 +214,8 @@
         }
         let styleCustom = document.createElement('style');
         styleCustom.innerHTML = 'img.emoji { height: 1em; width: 1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em; } '
-            + 'span.dt { color: #888; font-size: small; display: block; } .st { color: #1565c0; } '
-            + '.fn a { color: #1565c0; font-size: x-small; }'
+            + 'span.dt { color: #888; font-size: small; display: block; } .st { color: #c01515; } '
+            + '.fn a { color: #c01515; font-size: x-small; }'
             + '.mentioned { opacity: 0.75; }'
             + '.verified { flex-shrink: 0; margin-left: 2px; display: inline-block; overflow: hidden; text-indent: 110%; white-space: nowrap; }';
         head.appendChild(styleCustom);
